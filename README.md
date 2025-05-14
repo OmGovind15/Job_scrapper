@@ -6,6 +6,6 @@ Steps-
 
 3. Two sites (RemoteOk and Remotive) are used to extract the job application links based on classified category of the resume.
 
-4. Please download the ipynb notebook to see the results.
+4. Please download the ipynb notebook to see the results or open in the browser with this link(https://colab.research.google.com/drive/1e393K9JtPaKCkvnaxsehRK0uDV4hNPk7?usp=sharing)
 
 5. Please change paths in the code accordingly to run
